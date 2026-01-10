@@ -1,1 +1,2 @@
-# DATA-550-Lab-1
+# DATA 550 Lab Group 19
+## Andre Gnandt and Ilakiya Yuvarani Paulraj
